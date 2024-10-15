@@ -1,0 +1,4 @@
+com/event/api/domain/event/Event.class
+com/event/api/ApiApplication.class
+com/event/api/domain/address/Address.class
+com/event/api/domain/coupon/Coupon.class
